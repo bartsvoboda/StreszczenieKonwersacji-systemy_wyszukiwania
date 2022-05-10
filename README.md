@@ -1,1 +1,1 @@
-# StreszczenieKonwersacji-systemy_wyszukiwania
+Repozytorium dotyczy przedmiotu Systemu Wyszukiwania. Master Degree
