@@ -1,0 +1,1 @@
+# StreszczenieKonwersacji-systemy_wyszukiwania
